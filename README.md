@@ -18,7 +18,7 @@ It has been tested with a robot running GRBLHAL firmware and an ESP32 for WiFi c
   
 3. Files Provided
 - ArctosDriver.py: The driver script to place in the Robot_Drivers folder of RoboDK
-- This PDF guide
+- This guide
   
 4. Installation Steps
 1. Open RoboDK.
