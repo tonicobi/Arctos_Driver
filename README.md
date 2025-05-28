@@ -12,7 +12,7 @@ It has been tested with a robot running GRBLHAL firmware and an ESP32 for WiFi c
 
 2. Requirements
 - RoboDK installed (with educational license or better)
-- Arctos robot configured with GRBLHAL over WiFi (TCP socket)
+- Arctos robot configured with GRBL over WiFi (TCP socket)
 - Python 3 installed and available in system PATH
 - RoboDK Python API available (comes with RoboDK)
   
