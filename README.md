@@ -21,16 +21,13 @@ It has been tested with a robot running GRBLHAL firmware and an ESP32 for WiFi c
 - This guide
   
 4. Installation Steps
-   Open RoboDK.
-   Go to Tools -> Options -> Python and make sure Python is correctly configured.
-   Place the file ArctosDriver.py into RoboDK's "Robot_Drivers" folder.
+- Open RoboDK.
+- Go to Tools -> Options -> Python and make sure Python is correctly configured.
+- Place the file ArctosDriver.py into RoboDK's "Robot_Drivers" folder.
    Example: C:/RoboDK/Robot_Drivers/
-
-   Restart RoboDK.
-   
-   Load your Arctos.robot file.
-   
-   Right click on the robot -> Connect -> Select "ArctosDriver" and click "Connect".
+  -Restart RoboDK.
+  - Load your Arctos.robot file.
+  - Right click on the robot -> Connect -> Select "ArctosDriver" and click "Connect".
     
 5. Connection
 The driver uses a persistent TCP socket connection.
