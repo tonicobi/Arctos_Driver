@@ -11,7 +11,7 @@ This driver allows you to control a custom robot (Arctos) using RoboDK's Driver 
 It has been tested with a robot running GRBLHAL firmware and an ESP32 for WiFi connection.
 
 2. Requirements
-- RoboDK installed (with educational license or better)
+- RoboDK installed (with educational license or free)
 - Arctos robot configured with GRBL over WiFi (TCP socket)
 - Python 3 installed and available in system PATH
 - RoboDK Python API available (comes with RoboDK)
